@@ -17,7 +17,7 @@ end)
 -- KHỞI TẠO GIAO DIỆN CHÍNH
 -- ==========================================
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "SavePosMenuPro"
+ScreenGui.Name = "Menu Save Vip"
 ScreenGui.ResetOnSpawn = false
 
 local ok = pcall(function()
